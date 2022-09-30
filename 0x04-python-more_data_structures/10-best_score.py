@@ -7,4 +7,3 @@ def best_score(my_dict):
                 max = key
         return max
     return None
-
